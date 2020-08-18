@@ -10,3 +10,7 @@ body {
     background: #fafafa;
     color: #333;
 }
+
+.App {
+    text-align: -webkit-center; 
+}
